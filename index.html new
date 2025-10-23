@@ -141,7 +141,7 @@
       font-size:120px;
       font-weight:800;
       -webkit-text-stroke:2px rgba(255,255,255,0.12);
-      color:transparent;
+      color:transparent pink soft;
       letter-spacing:6px;
       pointer-events:none;
       user-select:none;
@@ -213,8 +213,8 @@
     <!-- RIGHT HERO -->
     <aside class="hero" aria-label="Foto Wanda">
       <!-- Ganti src ke foto kamu. jika perlu gunakan ukuran besar (≥1200px) -->
-      <img src="potosaya.jpeg" alt="Foto Wanda (ganti dengan fotomu)">
-      <div class="outline-text">WANDA</div>
+      <img src="potosaya.jpeg.jpeg" alt="Foto Wanda (ganti dengan fotomu)">
+      <div class="outline-text">hrmaa</div>
     </aside>
 
     <div class="scroll-clue" aria-hidden="true">
